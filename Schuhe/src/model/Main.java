@@ -9,7 +9,7 @@ import javax.persistence.Persistence;
 import javax.persistence.Query;
 
 
-
+//hallo atilla
 public class Main {
 	
 	/**
