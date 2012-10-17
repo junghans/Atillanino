@@ -10,6 +10,7 @@ import javax.persistence.Query;
 
 
 //hallo atilla
+//hallo nino :D
 public class Main {
 	
 	/**
