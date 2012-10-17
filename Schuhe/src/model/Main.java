@@ -12,6 +12,7 @@ import javax.persistence.Query;
 //hallo atilla
 //hallo nino :D
 //wie gehts ?
+//naja bisschen buggy halt :D
 public class Main {
 	
 	/**
